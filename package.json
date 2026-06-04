@@ -1,0 +1,7 @@
+{
+  "name": "flashdeploy2",
+  "version": "1.2.0",
+  "description": "Mini API de paiement",
+  "scripts": { "test": "node test/run.js" },
+  "license": "MIT"
+}
