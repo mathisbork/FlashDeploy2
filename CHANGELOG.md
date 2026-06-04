@@ -6,3 +6,7 @@ Le format suit Keep a Changelog, et le projet adhere a Semantic Versioning.
 ### Added
 - Endpoint /checkout pour finaliser un panier
 - Calcul de TVA sur le total
+
+## [Unreleased]
+### Changed
+- Refactor du module cart (renommage interne)
