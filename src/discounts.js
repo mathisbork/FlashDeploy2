@@ -15,3 +15,5 @@ function summerSeasonActive(date) {
 module.exports.summerSeasonActive = summerSeasonActive;
 
 registerCode('WELCOME10', { percent: 10, firstOrderOnly: true });
+
+registerCode('SUMMER25', { percent: 25, requiresSeason: true });
