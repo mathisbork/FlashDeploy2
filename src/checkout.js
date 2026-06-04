@@ -5,3 +5,4 @@ function checkout(cart) {
   return { subtotal, vat, total: subtotal + vat };
 }
 module.exports = { checkout };
+// version 1.2.0
