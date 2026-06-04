@@ -13,3 +13,5 @@ function summerSeasonActive(date) {
   return m >= 5 && m <= 7;
 }
 module.exports.summerSeasonActive = summerSeasonActive;
+
+registerCode('WELCOME10', { percent: 10, firstOrderOnly: true });
